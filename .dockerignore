@@ -1,0 +1,16 @@
+# Ignore common Python files and directories
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Ignore virtual environment files
+venv/
+env/
+.env
+
+# Ignore development and debugging files
+*.log
+*.vscode/
+.idea/
+.DS_Store
